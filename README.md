@@ -42,3 +42,25 @@ You play as an ibis whose mission is to collect trash (keys) and bring it to the
 ### To Run:
 ```bash
 python a3.py
+```
+
+## 🧪 Controls
+| Action         | Key/Input    |
+|----------------|--------------|
+| Move Up        | W / click 'N' |
+| Move Down      | S / click 'S' |
+| Move Left      | A / click 'W' |
+| Move Right     | D / click 'E' |
+| Save Game      | File > Save Game |
+| Load Game      | File > Load Game |
+| Use Life       | Use Life button (Postgrad mode only) |
+
+## 🧠 Learnings
+- Implemented Apple MVC architecture in a real-world GUI project.
+- Practiced object-oriented programming with reusable components.
+- Managed game state, save/load functionality, and timers.
+- Applied tkinter and Pillow for UI and graphics.
+- Learned version control and modular design during development.
+
+## 📚 Course Info
+This game was developed for **CSSE1001 – Introduction to Software Engineering** as part of the **Master of Data Science** program at **The University of Queensland**.
